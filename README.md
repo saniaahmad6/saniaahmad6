@@ -1,5 +1,4 @@
-### Hi there 👋
-### Myself Sania Ahmad, a second year computer engineering undergrad
+### Hi there 👋 I'm Sania
 
 <!--
 **saniaahmad6/saniaahmad6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
