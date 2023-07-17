@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <p align="center"> 
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/saniaahmad6/count.svg" />
 </p>
 
+-->
 ### About me  
 
 ```javascript
