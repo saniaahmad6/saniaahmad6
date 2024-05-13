@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 ```javascript
 const Sania = {
   pronouns: "she" | "her",
-  code: ["C++","C", "Javascript", "HTML", "CSS", "Python" ],
+  code: ["C++", "C", "Python", "Java", "Javascript", "HTML", "CSS"],
   askMeAbout: ["web dev", "tech", "DSA"],
   frameworks: ["Reactjs", "BootStrap"],
-  databases: ["mongoDB", "MySql"],
+  databases: ["MongoDB", "MySql"],
 };
 ```
 
